@@ -8,6 +8,7 @@ main.py
 unknown_errors.txt
 logs.txt
 .DS_Store
+.sqlite
 
 # PyCharm stuff
 .idea/
